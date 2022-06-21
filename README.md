@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @itsKoder
+- 👀 I’m interested in Web development and data analysis 
+- 🌱 I’m currently learning C#, SQL & React.js
